@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/241.0.0.17.116;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/182747440;FBCR/TRUE-H;FBMF/OPPO;FBBD/OPPO;FBDV/CPH1909;FBSV/8.1.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=1424,height=720};FB_FW/1;] FBBK/1
+[FBAN/EMA;FBAV/397.0.0.11.117;FBBV/19392060;FBDM/{density=4.0,width=1600,height=2560};FBLC/id_ID;FBCR/72234;FBMF/Xiaomi;FBBD/Pad 5 Pro;FBPN/com.facebook.octa;FBDV/M2105K81C;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
