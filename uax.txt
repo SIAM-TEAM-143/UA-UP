@@ -1,1 +1,1 @@
-[FBAN/EMA;FBAV/397.0.0.11.117;FBBV/19392060;FBDM/{density=4.0,width=1600,height=2560};FBLC/id_ID;FBCR/72234;FBMF/Xiaomi;FBBD/Pad 5 Pro;FBPN/com.facebook.octa;FBDV/M2105K81C;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/220.0.0.20.121;FBPN/com.facebook.orca;FBLC/en_US;FBBV/159507224;FBCR/Ooredoo;FBMF/Xiaomi;FBBD/xiaomi;FBDV/MI 5X;FBSV/8.1.0;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
