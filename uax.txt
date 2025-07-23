@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/220.0.0.20.121;FBPN/com.facebook.orca;FBLC/en_US;FBBV/159507224;FBCR/Ooredoo;FBMF/Xiaomi;FBBD/xiaomi;FBDV/MI 5X;FBSV/8.1.0;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/352.0.0.9.116;FBPN/com.facebook.orca;FBLC/en_US;FBBV/356687955;FBCR/cricket;FBMF/motorola;FBBD/motorola;FBDV/moto g power (2021);FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1488};FB_FW/1;]
